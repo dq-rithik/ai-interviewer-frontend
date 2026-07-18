@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'const API_BASE_URL = 'https://ai-interviewer-backend-1-1dsw.onrender.com/api';
+const API_BASE_URL = 'https://ai-interviewer-backend-1-1dsw.onrender.com/api';
 
 const apiClient = axios.create({
   baseURL: API_BASE_URL,
